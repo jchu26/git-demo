@@ -1,2 +1,2 @@
 # title
-This is my Git and GitHub workship repository!
+This is my Git and GitHub workshop repository!
